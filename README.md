@@ -17,9 +17,10 @@ Projeto para ser clonado: https://github.com/Dirceusljr/DC-projeto-aula
  4. Usar os seguines comando após o projeto ser clonado:<br/>
 	`git init`<br/>
 	`git remote set-url origin URL-do-repositório-criado` <br/>
+ `git branch -b main`<br/>
 `git add .`<br/>
 `git commit -m 'mensagem'`<br/>
-`git push -u origin master`
+`git push`
 
 ## Refatoração do Código
 
